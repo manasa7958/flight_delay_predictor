@@ -1,0 +1,5 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2025,4,DL,Delta Air Lines Network,BOS,"Boston, MA: Logan International",2158.00,421.00,145.16,7.86,127.63,0.94,139.41,9.00,1.00,26977.00,10899.00,1436.00,4522.00,29.00,10091.00
+2025,3,DL,Delta Air Lines Network,BOS,"Boston, MA: Logan International",2009.00,444.00,153.96,4.24,148.23,0.96,136.61,16.00,2.00,40225.00,19334.00,585.00,9060.00,52.00,11194.00
+2025,2,DL,Delta Air Lines Network,BOS,"Boston, MA: Logan International",1695.00,346.00,95.81,14.66,96.90,0.00,138.64,9.00,2.00,29249.00,9636.00,4183.00,5244.00,0.00,10186.00
+2025,1,DL,Delta Air Lines Network,BOS,"Boston, MA: Logan International",1829.00,329.00,138.09,10.96,65.07,1.00,113.88,26.00,2.00,30507.00,16739.00,1677.00,2625.00,49.00,9417.00
